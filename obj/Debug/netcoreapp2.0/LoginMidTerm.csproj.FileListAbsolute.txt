@@ -1,0 +1,11 @@
+C:\CIDM3312\LoginMidTerm\bin\Debug\netcoreapp2.0\LoginMidTerm.deps.json
+C:\CIDM3312\LoginMidTerm\bin\Debug\netcoreapp2.0\LoginMidTerm.runtimeconfig.json
+C:\CIDM3312\LoginMidTerm\bin\Debug\netcoreapp2.0\LoginMidTerm.runtimeconfig.dev.json
+C:\CIDM3312\LoginMidTerm\bin\Debug\netcoreapp2.0\LoginMidTerm.dll
+C:\CIDM3312\LoginMidTerm\bin\Debug\netcoreapp2.0\LoginMidTerm.pdb
+C:\CIDM3312\LoginMidTerm\obj\Debug\netcoreapp2.0\LoginMidTerm.csprojResolveAssemblyReference.cache
+C:\CIDM3312\LoginMidTerm\obj\Debug\netcoreapp2.0\LoginMidTerm.csproj.CoreCompileInputs.cache
+C:\CIDM3312\LoginMidTerm\obj\Debug\netcoreapp2.0\LoginMidTerm.AssemblyInfoInputs.cache
+C:\CIDM3312\LoginMidTerm\obj\Debug\netcoreapp2.0\LoginMidTerm.AssemblyInfo.cs
+C:\CIDM3312\LoginMidTerm\obj\Debug\netcoreapp2.0\LoginMidTerm.dll
+C:\CIDM3312\LoginMidTerm\obj\Debug\netcoreapp2.0\LoginMidTerm.pdb
